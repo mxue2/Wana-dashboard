@@ -1,0 +1,7 @@
+@import '../../../sass/variables.scss';
+
+#sidebar {
+    background: $dark_color;
+    grid-area: sidebar;
+    overflow-y: auto;
+}
